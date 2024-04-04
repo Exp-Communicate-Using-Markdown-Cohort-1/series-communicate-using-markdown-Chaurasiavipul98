@@ -2,4 +2,4 @@
 # <h2>Just following the Instruction
 # <h3>...!
 # <h4>Meow!😸
-![Image of Yaktocat](https://miro.medium.com/v2/resize:fit:1080/0*A7MUqyCLvZDcHkfM.jpg)
+![Image of Cute Cat](https://miro.medium.com/v2/resize:fit:1080/0*A7MUqyCLvZDcHkfM.jpg)
